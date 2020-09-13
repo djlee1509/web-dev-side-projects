@@ -1,5 +1,6 @@
 <h2>Web Development Challenges & Projects</h2>
 
+
 <h4>Built With</h4>
 * HTML
 * CSS
@@ -13,5 +14,3 @@
 * Simon Game - Clone of Simon Game
 * Todo List
 * Weather Project
-
-
